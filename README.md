@@ -1,7 +1,7 @@
 # Tourism_VisitWithUs_Project
 Data Analysis Project using Python(Data Cleaning and manipulation - Numpy, Pandas; Data Visualization - Seaborn, matplotlib)
 The notebook includes code for:
-1. Cleaning the dataset - finding the missing values and imputing them with mean/median.mode.
+1. Cleaning the dataset - finding the missing values and imputing them with mean/median/mode.
 2. Finding the duplicates and removing them.
 3. Converting the datatypes accordingly.
 4. Finding the statistical summary of the dataset and insights drawn from it.
